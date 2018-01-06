@@ -1,9 +1,8 @@
 # Weather Forecaster
 
-Weather forecaster built with React + Redux.
+Weather forecaster built with React + Redux, including Google Maps integration! Search for your favorite city and get an hourly forecast complete. Don't forget your umbrella.
 
 ## Screenshot
-COMING SOON!
 ![weather](/src/images/weather.png)
 
 ## Installation
